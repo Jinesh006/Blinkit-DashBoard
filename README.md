@@ -30,21 +30,35 @@ The analytics are derived from a multi-year retail dataset focused on the grocer
 # 4. Features / Highlights
 
 # • Business Problem
+
 Retailers often struggle to track profitability at a granular level across hundreds of items. Static reports fail to show how different product categories contribute to the overall bottom line or how store location affects customer purchasing power.
 
 # • Goal of the Dashboard
-To deliver an interactive diagnostic tool that:Identifies high-profit and low-profit product categories. Monitors regional performance to drive localized marketing strategies.Visualizes sales trends to prevent stockouts of popular grocery items. 
+
+To deliver an interactive diagnostic tool that:Identifies high-profit and low-profit product categories. 
+
+Monitors regional performance to drive localized marketing strategies.
+
+Visualizes sales trends to prevent stockouts of popular grocery items. 
 
 # • Walkthrough of Key Visuals
-Core Performance KPIs: High-level summaries of Total Revenue, Total Profit, and Average Order Value displayed using custom advanceCard visuals. Category Performance (Bar Chart): Ranks grocery categories (e.g., Produce vs. Canned Goods) to show which segments are driving volume. 
+
+Core Performance KPIs: High-level summaries of Total Revenue, Total Profit, and Average Order Value displayed using custom advanceCard visuals.
+
+Category Performance (Bar Chart): Ranks grocery categories (e.g., Produce vs. Canned Goods) to show which segments are driving volume. 
 
 Profitability Heatmap: Uses color-coded visuals to highlight geographical areas with the highest profit density.Inventory Velocity (Line Chart): Tracks sales trends over time to identify seasonal peaks and consumer shifts.
 
 Interactive Iconography: Utilizes custom Grocery Shop Emblems and Chart Arrow Icons for a professional, "app-like" user experience. 
 
 # • Business Impact & Insights
+
 Strategic Stocking: Insights from the category analysis allow stores to allocate more shelf space to high-margin items.
 
 Operational Efficiency: Managers can quickly spot underperforming locations and investigate potential issues in supply chain or local demand.
 
 Customer Insights: Analyzing average sales helps in designing better bundle deals and discount strategies for grocery shoppers.
+
+# 5. Scrrenshots
+<img width="1409" height="782" alt="Screenshot 2026-04-13 125139" src="https://github.com/user-attachments/assets/48b5f2bd-07f9-4087-8a52-c391fe3282cf" />
+
