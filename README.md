@@ -25,7 +25,11 @@ This dashboard was engineered using a professional data analytics workflow:
 
 # 3. Data Source
 
-The analytics are derived from a multi-year retail dataset focused on the grocery and supermarket sector. Source: Integrated Retail ERP systems and internal sales logs.Structure: Features detailed records of transaction amounts, product types (Produce, Dairy, Snacks), and outlet locations, supported by a rich library of custom icons for intuitive data exploration.
+The analytics are derived from a multi-year retail dataset focused on the grocery and supermarket sector. 
+
+Source: Integrated Retail ERP systems and internal sales logs.
+
+Structure: Features detailed records of transaction amounts, product types (Produce, Dairy, Snacks), and outlet locations, supported by a rich library of custom icons for intuitive data exploration.
 
 # 4. Features / Highlights
 
